@@ -1,2 +1,2 @@
 # Quick-
-landing page
+https://mizanonly.github.io/Quick-/
